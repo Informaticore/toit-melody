@@ -1,0 +1,6 @@
+# Toit Lock File.
+prefixes:
+  melody: ..
+packages:
+  ..:
+    path: ..
